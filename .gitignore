@@ -1,0 +1,7 @@
+data/
+models/
+results/
+history.json
+*.joblib
+__pycache__/
+.DS_Store
